@@ -1,0 +1,55 @@
+.section2-cont{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0px;
+    height: 50%;
+    background-color: white;
+    color: #364d79 !important;
+
+}
+.control{
+    margin-left: 5%;
+    width: 40%;
+    margin-top: 10%;
+    margin-right: 5%;
+
+}
+.Carousel{
+    margin-left: 5%;
+    width: 40%;
+    margin-top: 15%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+
+
+
+}
+h2{
+    color: #364d79 !important;
+    margin: 0px !important;
+
+
+}
+.icons{
+    margin-top: 5%;
+    display: grid;
+    grid:  33.3%/ auto auto
+}
+.notactive{
+    background-color: white;
+    color: #364d79;
+}
+.active{
+    background-color: #364d79;
+    color: white;
+}
+p{
+    margin: 0% !important;
+}
+
+    .active>p {
+  font-size: 6px; }
+  .notactive>p {
+    font-size: 6px; }
+  
